@@ -1,0 +1,26 @@
+{
+  "schema": "robosoccer.role-parameter-matrix/v1",
+  "status": "experiment-design-only; no candidate is promoted without evidence gate",
+  "shared": {
+    "ball_source": ["camera", "fused", "supervisor"],
+    "kick_alignment_tolerance_deg": {"baseline": 15, "candidates": [10, 15, 20, 25], "safe_range": [5, 30]},
+    "teammate_avoidance_m": {"baseline": 0.4, "candidates": [0.35, 0.4, 0.5]}
+  },
+  "goalkeeper": {
+    "interception_radius_m": {"baseline": 0.8, "candidates": [0.6, 0.8, 1.0]},
+    "boundary_margin_m": {"baseline": 0.5, "candidates": [0.4, 0.5, 0.6]},
+    "recovery_height_m": {"baseline": 0.2, "candidates": [0.18, 0.2, 0.23]}
+  },
+  "defender": {
+    "chase_distance_m": {"baseline": 1.0, "candidates": [0.8, 1.0, 1.2]},
+    "interception_radius_m": {"baseline": 0.65, "candidates": [0.5, 0.65, 0.8]},
+    "pass_lane_clearance_m": {"baseline": 0.45, "candidates": [0.35, 0.45, 0.55]}
+  },
+  "forward": {
+    "chase_distance_m": {"baseline": 1.5, "candidates": [1.2, 1.5, 1.8]},
+    "support_distance_m": {"baseline": 1.0, "candidates": [0.8, 1.0, 1.2]},
+    "kick_alignment_tolerance_deg": {"baseline": 15, "candidates": [10, 15, 20, 25]},
+    "strike_standoff_m": {"baseline": 0.22, "candidates": [0.18, 0.22, 0.26]}
+  },
+  "promotion_rule": "Run fixed-condition seeds only after P3 physical_kick_success; report median and interval, never a single best score."
+}

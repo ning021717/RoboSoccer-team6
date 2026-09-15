@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="600" viewBox="0 0 700 600">
+<style>text{font-family:Arial,sans-serif;fill:#172033}.title{font-size:22px;font-weight:bold}.small{font-size:13px}.value{font-size:18px;font-weight:bold}</style>
+<rect width="700" height="600" fill="#ffffff"/>
+<text x="30" y="38" class="title">P3 real Webots pilot: ball displacement</text>
+<text x="30" y="63" class="small">3×3 placement scan · 6 s per cell · no ball-velocity injection · all rows remain evidence-insufficient</text>
+<text x="30" y="86" class="small">Colour is measured max displacement only; it is not a kick-success score.</text>
+<text x="30" y="300" class="small" transform="rotate(-90 30 300)">lateral offset (m)</text>
+<text x="360" y="535" class="small">forward offset (m)</text>
+<text x="233" y="95" class="small">0.18</text>
+<text x="363" y="95" class="small">0.26</text>
+<text x="493" y="95" class="small">0.34</text>
+<text x="145" y="173" class="small">-0.06</text>
+<rect x="190" y="105" width="116" height="116" rx="8" fill="rgb(255,128,77)" stroke="#a8b0c0"/>
+<text x="208" y="155" class="value">0.1347 m</text>
+<text x="202" y="181" class="small">insufficient_evidence</text>
+<text x="202" y="201" class="small">kick req: 22</text>
+<rect x="320" y="105" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="338" y="155" class="value">0.0000 m</text>
+<text x="332" y="181" class="small">insufficient_evidence</text>
+<text x="332" y="201" class="small">kick req: 51</text>
+<rect x="450" y="105" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="468" y="155" class="value">0.0000 m</text>
+<text x="462" y="181" class="small">insufficient_evidence</text>
+<text x="462" y="201" class="small">kick req: 17</text>
+<text x="145" y="303" class="small">-0.10</text>
+<rect x="190" y="235" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="208" y="285" class="value">0.0000 m</text>
+<text x="202" y="311" class="small">insufficient_evidence</text>
+<text x="202" y="331" class="small">kick req: 18</text>
+<rect x="320" y="235" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="338" y="285" class="value">0.0000 m</text>
+<text x="332" y="311" class="small">insufficient_evidence</text>
+<text x="332" y="331" class="small">kick req: 34</text>
+<rect x="450" y="235" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="468" y="285" class="value">0.0000 m</text>
+<text x="462" y="311" class="small">insufficient_evidence</text>
+<text x="462" y="331" class="small">kick req: 16</text>
+<text x="145" y="433" class="small">-0.14</text>
+<rect x="190" y="365" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="208" y="415" class="value">0.0000 m</text>
+<text x="202" y="441" class="small">insufficient_evidence</text>
+<text x="202" y="461" class="small">kick req: 15</text>
+<rect x="320" y="365" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="338" y="415" class="value">0.0000 m</text>
+<text x="332" y="441" class="small">insufficient_evidence</text>
+<text x="332" y="461" class="small">kick req: 0</text>
+<rect x="450" y="365" width="116" height="116" rx="8" fill="rgb(255,245,235)" stroke="#a8b0c0"/>
+<text x="468" y="415" class="value">0.0000 m</text>
+<text x="462" y="441" class="small">insufficient_evidence</text>
+<text x="462" y="461" class="small">kick req: 0</text>
+<rect x="30" y="555" width="16" height="16" fill="rgb(255,245,235)"/><text x="52" y="568" class="small">0 m</text>
+<rect x="115" y="555" width="16" height="16" fill="rgb(255,115,60)"/><text x="137" y="568" class="small">≥0.15 m</text>
+<text x="250" y="568" class="small">Strict P3 gate additionally requires toe contact during kick motion.</text>
+</svg>

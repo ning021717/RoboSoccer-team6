@@ -1,0 +1,156 @@
+[
+  {
+    "file": "Backwards.motion",
+    "removed_joints": [],
+    "keyframes": 66
+  },
+  {
+    "file": "Forwards.motion",
+    "removed_joints": [],
+    "keyframes": 41
+  },
+  {
+    "file": "Forwards50.motion",
+    "removed_joints": [],
+    "keyframes": 170
+  },
+  {
+    "file": "ForwardsSprint.motion",
+    "removed_joints": [],
+    "keyframes": 35
+  },
+  {
+    "file": "HandWave.motion",
+    "removed_joints": [],
+    "keyframes": 37
+  },
+  {
+    "file": "LongPass.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 8
+  },
+  {
+    "file": "RightShoot.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 8
+  },
+  {
+    "file": "Shoot.motion",
+    "removed_joints": [],
+    "keyframes": 121
+  },
+  {
+    "file": "SidePass_Left.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 11
+  },
+  {
+    "file": "SidePass_Right.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 10
+  },
+  {
+    "file": "SideStepLeft.motion",
+    "removed_joints": [],
+    "keyframes": 124
+  },
+  {
+    "file": "SideStepRight.motion",
+    "removed_joints": [],
+    "keyframes": 145
+  },
+  {
+    "file": "StandInit.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 1
+  },
+  {
+    "file": "StandUpFromBack.motion",
+    "removed_joints": [],
+    "keyframes": 86
+  },
+  {
+    "file": "StandUpFromFront.motion",
+    "removed_joints": [],
+    "keyframes": 38
+  },
+  {
+    "file": "TurnLeft10.motion",
+    "removed_joints": [],
+    "keyframes": 33
+  },
+  {
+    "file": "TurnLeft10_V2.motion",
+    "removed_joints": [],
+    "keyframes": 33
+  },
+  {
+    "file": "TurnLeft180.motion",
+    "removed_joints": [],
+    "keyframes": 226
+  },
+  {
+    "file": "TurnLeft20.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 6
+  },
+  {
+    "file": "TurnLeft30.motion",
+    "removed_joints": [],
+    "keyframes": 64
+  },
+  {
+    "file": "TurnLeft40.motion",
+    "removed_joints": [],
+    "keyframes": 73
+  },
+  {
+    "file": "TurnLeft60.motion",
+    "removed_joints": [],
+    "keyframes": 114
+  },
+  {
+    "file": "TurnRight10.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 5
+  },
+  {
+    "file": "TurnRight10_V2.motion",
+    "removed_joints": [
+      "LHand",
+      "RHand"
+    ],
+    "keyframes": 5
+  },
+  {
+    "file": "TurnRight40.motion",
+    "removed_joints": [],
+    "keyframes": 72
+  },
+  {
+    "file": "TurnRight60.motion",
+    "removed_joints": [],
+    "keyframes": 114
+  }
+]

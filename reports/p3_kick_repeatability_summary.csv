@@ -1,0 +1,4 @@
+repeat_index,scenario,forward_offset_m,lateral_offset_m,kick_alignment_tolerance_deg,kick_requests,toe_bumper_peak,max_ball_displacement_m,peak_ball_speed_mps,ball_velocity_injected,evidence_status,reason,source_sha256
+1,kick_calibration,0.14,-0.04,25.0,84,1.0,0.48711,0.69896,False,physical_kick_success,measured_ball_motion,c4c7517a49e0dc0e1160bcf174b481e0ec0a86cd6f4641d8903f382645c4c18b
+2,kick_calibration,0.14,-0.04,25.0,84,1.0,0.48711,0.69896,False,physical_kick_success,measured_ball_motion,c4c7517a49e0dc0e1160bcf174b481e0ec0a86cd6f4641d8903f382645c4c18b
+3,kick_calibration,0.14,-0.04,25.0,84,1.0,0.48711,0.69896,False,physical_kick_success,measured_ball_motion,c4c7517a49e0dc0e1160bcf174b481e0ec0a86cd6f4641d8903f382645c4c18b

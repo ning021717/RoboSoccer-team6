@@ -1,0 +1,6 @@
+# Generated simulation evidence can be large; retain locally with manifests.
+evidence/
+backups/
+__pycache__/
+*.py[cod]
+*.mp4
